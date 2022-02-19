@@ -1,5 +1,5 @@
 # T.T.H
-This repository only for students
+### text to handwriting converter
 
 
 This application for those people who want to convert text to handwriritng
