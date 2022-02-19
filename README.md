@@ -22,7 +22,7 @@ git clone https://github.com/techtechie12/T.T.H.git
 
 cd T.T.H
 
-python tth.py
+python TTH.py
 
 #### For Debian-based GNU/Linux distributions
 
@@ -34,7 +34,7 @@ git clone https://github.com/techtechie12/T.T.H.git
 
 cd T.T.H
 
-python3 tth.py
+python3 TTH.py
 
 
 
