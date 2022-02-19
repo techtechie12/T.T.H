@@ -39,5 +39,12 @@ python3 tth.py
 
 
  
-   
+
+######### GUI VERSION COMING SOON
+
+# Email me if you want to partner with me
+
+email = saquib4343@gmail.com
+
+  
    
